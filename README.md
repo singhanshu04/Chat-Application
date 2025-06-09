@@ -2,6 +2,9 @@
 
 A simple yet functional Java-based chat application with a user-friendly graphical interface built using Swing, and MySQL database integration via JDBC. This project demonstrates core Java programming concepts, MVC architecture, and GUI responsiveness. It is ideal for academic and learning purposes.
 
+## Project Documentation
+https://github.com/singhanshu04/Chat-Application/blob/main/project%20documentation.pdf
+
 ##  Screenshots ---
 ![screenshot](https://github.com/singhanshu04/Chat-Application/blob/main/ProjectStructure/model/images/Picture2.jpg?raw=true)
 ![screenshot](https://github.com/singhanshu04/Chat-Application/blob/main/ProjectStructure/model/images/Picture1.jpg?raw=true)
