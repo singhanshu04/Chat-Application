@@ -6,6 +6,29 @@ A simple yet functional Java-based chat application with a user-friendly graphic
 ![screenshot](https://github.com/singhanshu04/Chat-Application/blob/main/ProjectStructure/model/images/Picture2.jpg?raw=true)
 ![screenshot](https://github.com/singhanshu04/Chat-Application/blob/main/ProjectStructure/model/images/Picture1.jpg?raw=true)
 
+A simple console-based multi-client chat application written in Java. The application uses Java's Socket API to establish communication between a server and multiple clients.
+
+## Features
+
+- Real-time communication between multiple clients
+- Username validation
+- Command `/quit` for leaving the chat
+- Notification when users join or leave the chat
+- Error handling for invalid inputs and disconnections
+- Modular, easy-to-maintain code structure
+
+## Technologies Used
+
+- Java Sockets (TCP)
+- Java Threads (Multithreading)
+- Java Collections (ArrayList)
+
+## System Requirements
+
+- Java Development Kit (JDK) 8 or above
+- Console/Terminal
+
+
 # Features
 1.GUI-based user registration form
 
